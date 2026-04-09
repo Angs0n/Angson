@@ -68,8 +68,8 @@ I'm a passionate software developer building real-world applications with clean 
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oluwafunmilolaliu@gmail.com)
 
 <!--
 **Angson919/Angson919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
